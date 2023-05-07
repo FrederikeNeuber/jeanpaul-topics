@@ -1,0 +1,31 @@
+Number;Number of topics;Proper nouns;Lemmatization;Iterations;OptimizeIntervals;Source data;Results
+1;20;yes;no;5000;100;letters-context;data/tm/visuals_NE
+2;40;yes;no;5000;100;letters-context;data/tm/visuals_NE
+3;60;yes;no;5000;100;letters-context;data/tm/visuals_NE
+4;80;yes;no;5000;100;letters-context;data/tm/visuals_NE
+5;100;yes;no;5000;100;letters-context;data/tm/visuals_NE
+6;20;exluded via list of stopwords;no;5000;100;letters-context;data/tm/visuals
+7;40;exluded via list of stopwords;no;5000;100;letters-context;data/tm/visuals
+8;60;exluded via list of stopwords;no;5000;100;letters-context;data/tm/visuals
+9;80;exluded via list of stopwords;no;5000;100;letters-context;data/tm/visuals
+10;100;exluded via list of stopwords;no;5000;100;letters-context;data/tm/visuals
+11;20;yes;only nouns;5000;100;letters-context_lemmata_NNE;data/tm/visuals_NNE
+12;40;yes;only nouns;5000;100;letters-context_lemmata_NNE;data/tm/visuals_NNE
+13;60;yes;only nouns;5000;100;letters-context_lemmata_NNE;data/tm/visuals_NNE
+14;80;yes;only nouns;5000;100;letters-context_lemmata_NNE;data/tm/visuals_NNE
+15;100;yes;only nouns;5000;100;letters-context_lemmata_NNE;data/tm/visuals_NNE
+16;20;exluded via lemmatization;only nouns;5000;100;letters-context_lemmata_N;data/tm/visuals_N
+17;40;exluded via lemmatization;only nouns;5000;100;letters-context_lemmata_N;data/tm/visuals_N
+18;60;exluded via lemmatization;only nouns;5000;100;letters-context_lemmata_N;data/tm/visuals_N
+19;80;exluded via lemmatization;only nouns;5000;100;letters-context_lemmata_N;data/tm/visuals_N
+20;100;exluded via lemmatization;only nouns;5000;100;letters-context_lemmata_N;data/tm/visuals_N
+21;20;yes;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NNEVA;data/tm/visuals_NNEVA
+22;40;yes;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NNEVA;data/tm/visuals_NNEVA
+23;60;yes;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NNEVA;data/tm/visuals_NNEVA
+24;80;yes;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NNEVA;data/tm/visuals_NNEVA
+25;100;yes;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NNEVA;data/tm/visuals_NNEVA
+26;20;exluded via lemmatization;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NVA;data/tm/visuals_NVA
+27;40;exluded via lemmatization;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NVA;data/tm/visuals_NVA
+28;60;exluded via lemmatization;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NVA;data/tm/visuals_NVA
+29;80;exluded via lemmatization;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NVA;data/tm/visuals_NVA
+30;100;exluded via lemmatization;nouns, verbs, adjectives;5000;100;letters-context_lemmata_NVA;data/tm/visuals_NVA
