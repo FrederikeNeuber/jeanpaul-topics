@@ -12,12 +12,12 @@ The Letters from Jean Paul's surroundings are published as [digital edition](jea
 
 ## Content
 
-* **data** 
-  * **preprocessing**: datasets with various preprocessing parameters applied (see topic-modeling-overview.csv); all data sets are plain text version of the TEI source files including normalization of historical orthographic variants to "canonical" modern forms
-  * **tm**: results of the topic modeling; for the correlation input and output data see topic-modeling-overview.csv
-* **topic-models-overview.csv**
-* **letters-context-metadata.csv**
-* **stopwords.txt** (will be added soon)
+* **data/preprocessing**: datasets with various preprocessing parameters applied (see topic-modeling-overview.csv); all data sets are plain text version of the TEI source files including normalization of historical orthographic variants to "canonical" modern forms
+  * **stopwords.txt**: list of stopwords (will be added soon)
+* **data/tm**: results of the topic modeling; for the correlation input and output data see topic-modeling-overview.csv
+* **topic-models-overview.csv**: overview of applied topic models
+* **letters-context-metadata.csv**: table with metadata to the single letters such as sender, receiver and date
+
 
 ## Citation and license
 
