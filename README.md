@@ -4,7 +4,7 @@
 
 This repository contains data and results that were obtained from topic modeling the letters from Jean Paul's surroundings, i. e. of family, friends and colleagues of the German author. It complements the following article available in open access, which in turn goes back to a presentation at the University of Rostock in 2022: 
 
-* Article: Ulrike Henny-Krahmer and Frederike Neuber. 2025. Topic Modeling in Digital Scholarly Editions, in: Machine Learning and Data Mining for Digital Scholarly Editions (ed. by Ulrike Henny-Krahmer, Martina Scholger, Bernhard Geiger, Fabian Kaßner and Marc Lemke). Schriften des Instituts für Dokumentologie und Editorik 18. Norderstedt: Books on Demand. [[published in 2025](https://www.i-d-e.de/publikationen/schriften/)] 
+* Article: Ulrike Henny-Krahmer and Frederike Neuber. 2026. Topic Modeling in Digital Scholarly Editions, in: Machine Learning and Data Mining for Digital Scholarly Editions (ed. by Ulrike Henny-Krahmer, Martina Scholger, Bernhard Geiger, Fabian Kaßner and Marc Lemke). Schriften des Instituts für Dokumentologie und Editorik 18. Norderstedt: Books on Demand. [[to be published in 2026](https://www.i-d-e.de/publikationen/schriften/)] 
 
 * Conference Paper: Ulrike Henny-Krahmer and Frederike Neuber. 2022. Topic Modeling in Digital Scholarly Editions. Machine Learning and Data Mining for Digital Scholarly Editions, Universität Rostock, 10. Juni 2022. [[program](https://www.i-d-e.de/aktivitaeten/veranstaltungen/machine-learning-and-data-mining-for-digital-scholarly-editions/)]
 
