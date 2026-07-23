@@ -10,6 +10,8 @@ This repository contains data and results that were obtained from topic modeling
 
 The letters from Jean Paul's surroundings are published as [digital edition](jeanpaul-edition.de/) at the Berlin-Brandenburg Academy of Sciences and Humanities since 2019. The TEI datasets of the edition which are availiable on [GitHub](https://github.com/telota/jean_paul_briefe) and [Zenodo (v.5.0)](https://zenodo.org/record/6322839) were preprocessed and analyzed in different ways. The tools used include [CAB](https://kaskade.dwds.de/~moocow/software/DTA-CAB/), [Mallet](https://mimno.github.io/Mallet/index), and [TMW](https://github.com/cligs/tmw). For more detailed information on how we prepared, preprocessed and analyzed the data as well as how we interpreted the results, please consult the article mentioned above. 
 
+Since 2025, this work has been continued within the framework of the DFG-funded project [_Jean Paul – Sämtliche Briefe digital: Einbindung der IV. Abteilung – Briefe an Jean Paul_](https://gepris.dfg.de/project/537078797), led by Markus Bernauer and Frederike Neuber. Within this project, the proof of concept presented here is being transferred into editorial practice and further developed through the implementation of a topic browser for the digital edition.
+
 ## Content
 
 * **data/preprocessing**: datasets with various preprocessing parameters applied (see topic-modeling-overview.csv); all data sets are plain text version of the TEI source files including normalization of historical orthographic variants to "canonical" modern forms
