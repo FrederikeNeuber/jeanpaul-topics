@@ -23,6 +23,6 @@ Since 2025, this work has been continued within the framework of the DFG-funded 
 
 ## Citation and license
 
-Neuber, Frederike and Ulrike Henny-Krahmer. 2023. “Topic modeling the correspondence of Jean Paul’s surroundings” (v.1.0). Zenodo. https://doi.org/#####, GitHub: https://github.com/FrederikeNeuber/jeanpaul-topics.
+Neuber, Frederike and Ulrike Henny-Krahmer. 2026. “Topic modeling the correspondence of Jean Paul’s surroundings” (v.1.0). Zenodo. https://doi.org/#####, GitHub: https://github.com/FrederikeNeuber/jeanpaul-topics.
 
 The content of the repository is published unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
