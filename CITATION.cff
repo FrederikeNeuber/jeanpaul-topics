@@ -1,20 +1,22 @@
 cff-version: 1.2.0
+title: "jeanpaul-topics: Topic modeling the correspondence of Jean Paul’s surroundings"
+version: 1.0.0
+license: "CC-BY-SA-4.0"
+type: software
+abstract: "Software for topic modeling the correspondence of Jean Paul’s surroundings."
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Neuber
-    given-names: Frederike
+  - given-names: Frederike
+    family-names: Neuber
     orcid: "https://orcid.org/0000-0001-8279-9298"
-  - family-names: Henny-Krahmer
-    given-names: Ulrike
+  - given-names: Ulrike
+    family-names: Henny-Krahmer
     orcid: "https://orcid.org/0000-0003-2852-065X"
-title: "jeanpaul-topics: Topic modeling the correspondence of Jean Paul’s surroundings"
-version: v.1.0
-date-released: 2026-07-23
-license: CC-BY-SA-4.0
-url: "https://github.com/FrederikeNeuber/jeanpaul-topics"
-repository-code: https://github.com/FrederikeNeuber/jeanpaul-topics
 keywords:
-  - topic modeling
   - digital humanities
+  - topic modeling
+  - correspondence
   - Jean Paul
-  - digital editions
+  - text analysis
+date-released: 2026-07-23
+url: "https://github.com/FrederikeNeuber/jeanpaul-topics"
