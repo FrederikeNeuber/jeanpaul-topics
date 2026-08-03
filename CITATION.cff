@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 title: "jeanpaul-topics: Topic modeling the correspondence of Jean Paul’s surroundings"
-version: 1.0.0
+version: 1.0
 license: "CC-BY-SA-4.0"
 type: software
-abstract: "Software for topic modeling the correspondence of Jean Paul’s surroundings."
+abstract: "Dataset of the article: Ulrike Henny-Krahmer and Frederike Neuber. 2026. Topic Modeling in Digital Scholarly Editions, in: Machine Learning and Data Mining for Digital Scholarly Editions (ed. by Ulrike Henny-Krahmer, Martina Scholger, Bernhard Geiger, Fabian Kaßner and Marc Lemke). Schriften des Instituts für Dokumentologie und Editorik 18. Norderstedt: Books on Demand"
 message: "If you use this software, please cite it as below."
 authors:
   - given-names: Frederike
